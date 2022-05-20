@@ -4,7 +4,7 @@
 -I've also created a "Sekiro:Shadows Die Twice" mod, and update it from time to time!🎮<br>
 -How to reach me: My email-javakingxi@gmail.com✉️<br>
  When I'm bored,I make board games with swing and port them to web apps when I get the chance!♟️<br>
--Sometimes, I wrote stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
+-Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
  
 <br>
 
