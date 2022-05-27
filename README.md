@@ -14,7 +14,7 @@
 
 </h1>
 <p align="center">
-  <img src="assets/sekiro.gif" alt="Sekiro background">
+  <img src="https://images8.alphacoders.com/100/1003875.jpg" alt="Sekiro background">
  </p>
 <br>
 
