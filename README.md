@@ -40,7 +40,76 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://www.youtube.com/channel/UCpRm6vw32EW_cdel4-3AxyA" target="blank"
+    ><img
+      align="center"
+      src="assets/connections/yt.png"
+      alt="youtube"
+      height="30"
+      width="40"
+  /></a>  
+  <a href="mailto:javakingxi@gmail.com?'Reaching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank">
+    <img align="center" src="assets/connections/gmail.jpg" alt="email" height="30" width="40"/>
+    </a>
+
 </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+    <a href="https://www.java.com/en/" target="_blank">
+    <img
+      src="assets/tools/java.png"
+      alt="JAVA icon"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img
+      src="assets/tools/C.png"
+      alt="C Programming"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://www.lua.org" target="_blank">
+    <img
+      src="assets/tools/LUA1.png"
+      alt="LUA Programming"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.javascript.com" target="_blank">
+    <img
+      src="assets/tools/javascript.png"
+      alt="JS Programming"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img
+      src="assets/tools/HTML.webp"
+      alt="HTML5"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img
+      src="assets/tools/CSS.jpg"
+      alt="CSS3"
+      width="40"
+      height="40"
+    />
+  </a>
+
  
 <br>
 
