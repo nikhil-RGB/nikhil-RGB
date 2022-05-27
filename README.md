@@ -18,6 +18,8 @@
  </p>
 <br>
 
+ ![Nikhil Narayanan's github activity graph](https://activity-graph.herokuapp.com/graph?username=nikhil-RGB&theme=react-dark)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
