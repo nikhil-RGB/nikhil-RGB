@@ -1,9 +1,9 @@
--<strong>Hi, I’m @nikhil-RGB!</strong>
--I’m currently learning desktop application development in <strong>JAVA(AWT/SWING/JAVAFX)</strong>☕ and trying out just a little bit of <strong>HTML/CSS/VANILLA JS</strong>(web development)🕸️ <br>
--I've also created a <strong>"Sekiro:Shadows Die Twice"</strong> mod, and update it from time to time!🎮<br>
--How to reach me: My email- javakingxi@gmail.com✉️<br>
--Every now and then, I make board games with swing and port them to web apps when I get the chance!♟️<br>
--Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
+- <strong>Hi, I’m @nikhil-RGB!</strong>
+- I’m currently learning desktop application development in <strong>JAVA(AWT/SWING/JAVAFX)</strong>☕ and trying out just a little bit of <strong>HTML/CSS/VANILLA      JS</strong>(web development)🕸️ <br>
+- I've also created a <strong>"Sekiro:Shadows Die Twice"</strong> mod, and update it from time to time!🎮<br>
+- How to reach me: My email- javakingxi@gmail.com✉️<br>
+- Every now and then, I make board games with swing and port them to web apps when I get the chance!♟️<br>
+- Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
 <br>
 
 <h1 align="center">Hi! I'm Nikhil Narayanan!
