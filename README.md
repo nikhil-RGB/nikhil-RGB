@@ -1,3 +1,4 @@
+
 ### About Me:
 - <strong>Hi, I’m @nikhil-RGB!</strong>
 - I’m currently learning desktop application development in <strong>JAVA(AWT/SWING/JAVAFX)</strong>☕ and trying out just a little bit of <strong>HTML/CSS/VANILLA      JS</strong>(web development)🕸️ <br>
@@ -5,10 +6,23 @@
 - How to reach me: My email- javakingxi@gmail.com✉️<br>
 - Every now and then, I make board games with swing and port them to web apps when I get the chance!♟️<br>
 - Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
-### Currently Part of: 
- * Technical member at GeeksForGeeksCommunity(SRM-KTR)
- * Associate at NextTechLabs (SRM-KTR)
-<br>
+
+
+<hr/>
+
+
+### Communities/Clubs/Organizations: 
+ <a href="https://www.instagram.com/gfg_srmist/?hl=en" target="blank">
+  <img src="https://user-images.githubusercontent.com/68727041/173083148-ddda97ef-7bec-4020-9a1e-e0ccb8d50c7b.png" width="25px" height="20px" align="center">
+</a>  
+  <i>Technical member at GeeksForGeeksCommunity(SRM-KTR)</i> 
+  <br>
+  <a href="https://www.instagram.com/nexttechlab/?hl=en">
+ <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Associate at NextTechLabs(SRM-KTR)</i>
+  <br>
+  <br>
+  <hr>
+  <br>
 
 <h1 align="center">Hi! I'm Nikhil Narayanan!
   
@@ -27,7 +41,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <br>
   <a href="https://www.linkedin.com/in/nikhil-narayanan-rgb/" target="blank">
     <img
       align="center"
