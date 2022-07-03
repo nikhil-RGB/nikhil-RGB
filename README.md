@@ -18,7 +18,7 @@
   <i>Technical member at GeeksForGeeksCommunity(SRM-KTR)</i> 
   <br>
   <a href="https://www.instagram.com/nexttechlab/?hl=en">
- <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Associate at NextTechLabs(SRM-KTR)</i>
+ <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Associate at SRM NextTechLabs(KTR)</i>
   <br>
   <br>
   <hr>
