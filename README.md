@@ -73,6 +73,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<h5 align="left">Languages</h5>
     <a href="https://www.java.com/en/" target="_blank">
     <img
       src="assets/tools/java.png"
@@ -126,7 +127,8 @@
       height="40"
     />
   </a>
-
+  <h5 align="left">Tools</h5>
+   
  
 <br>
 
