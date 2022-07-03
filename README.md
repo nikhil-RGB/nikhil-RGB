@@ -147,7 +147,7 @@
     />
   </a>
   
-  <a href="www.jetbrains.com/idea" target="_blank">
+  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwispIyOudz4AhX4nNgFHYWTCEUQFnoECBkQAQ&url=https%3A%2F%2Fwww.jetbrains.com%2Fidea%2F&usg=AOvVaw1dUbYp3QZeAgvbt0Z6D1Zw" target="_blank">
    <img
       src="assets/tools/intelli.jpg"
       alt="Intellij-IDE"
