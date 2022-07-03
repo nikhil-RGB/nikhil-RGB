@@ -129,7 +129,53 @@
   </a>
   <h5 align="left">Tools</h5>
    
- 
+  <a href="https://github.com" target="_blank">
+    <img
+      src="assets/tools/github-1.png"
+      alt="Github!"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://git-scm.com" target="_blank">
+    <img
+      src="assets/tools/git.png"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="www.jetbrains.com/idea" target="_blank">
+   <img
+      src="assets/tools/intelli.jpg"
+      alt="Intellij-IDE"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers" target="_blank">
+   <img
+      src="assets/tools/eclipse.png"
+      alt="Eclipse-IDE"
+      width="40"
+      height="40"
+    />
+    </a>
+    
+   <a href="https://code.visualstudio.com/download" target="_blank">
+   <img
+      src="assets/tools/vscode.jpg"
+      alt="VS-Code"
+      width="40"
+      height="40"
+    />
+    </a>
+    
+    
+   
 <br>
 
 <h2 align="center">Nikhil's Overview</h2>
