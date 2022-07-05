@@ -7,6 +7,7 @@
 - Every now and then, I make board games with swing and port them to web apps when I get the chance!♟️<br>
 - Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
 - You can check out brief descriptions of all my work [here](https://nikhil-rgb.github.io)<br/>
+- <strong>PS: All icons in this README are links which describe the icon, if you want to anything about what technology/association<br/> an icon represents, click on it for   more information!</strong>
 
 
 <hr/>
