@@ -6,6 +6,7 @@
 - How to reach me: My email- javakingxi@gmail.com✉️<br>
 - Every now and then, I make board games with swing and port them to web apps when I get the chance!♟️<br>
 - Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
+- You can check out brief descriptions of all my work [here](https://nikhil-rgb.github.io)<br/>
 
 
 <hr/>
