@@ -111,6 +111,16 @@
     />
   </a>
   <h5 align="left">Markup/Stylesheet Languages</h5>
+  
+   <a href="https://www.markdownguide.org" target="_blank">
+    <img
+      src="assets/tools/markdown.png"
+      alt="markdown"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img
       src="assets/tools/HTML.webp"
