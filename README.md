@@ -1,13 +1,13 @@
 
 ### About Me:
 - <strong>Hi, I’m @nikhil-RGB!</strong>
-- I’m currently learning desktop application development in <strong>JAVA(AWT/SWING/JAVAFX)</strong>☕ and trying out just a little bit of <strong>HTML/CSS/VANILLA      JS</strong>(web development)🕸️ <br>
+- I’m currently learning desktop application development in <strong>JAVA(AWT/SWING/JAVAFX)</strong>☕ and trying out just a little bit of <strong>HTML/CSS/VANILLA       JS</strong>(web development)🕸️ <br>
 - I've also created a <strong>"Sekiro:Shadows Die Twice"</strong> mod, and update it from time to time!🎮<br>
 - How to reach me: My email- javakingxi@gmail.com✉️<br>
 - Every now and then, I make board games with swing and port them to web apps when I get the chance!♟️<br>
 - Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
 - You can check out brief descriptions of all my work [here](https://nikhil-rgb.github.io)<br/>
-- <strong>PS: All icons in this README are links which describe the icon, if you want to anything about what technology/association<br/> an icon represents, click on it for   more information!</strong>
+- <strong>PS: All icons in this README are links which describe the icon, if you want to know anything about what technology/association<br/> an icon represents, click   on it for more information!</strong>
 
 
 <hr/>
@@ -75,7 +75,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Languages</h5>
+<h5 align="left">Programming Languages</h5>
     <a href="https://www.java.com/en/" target="_blank">
     <img
       src="assets/tools/java.png"
@@ -110,7 +110,7 @@
       height="40"
     />
   </a>
-  
+  <h5 align="left">Markup/Stylesheet Languages</h5>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img
       src="assets/tools/HTML.webp"
