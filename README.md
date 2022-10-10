@@ -16,17 +16,24 @@
  <a href="https://www.instagram.com/gfg_srmist/?hl=en" target="blank">
   <img src="https://user-images.githubusercontent.com/68727041/173083148-ddda97ef-7bec-4020-9a1e-e0ccb8d50c7b.png" width="25px" height="20px" align="center">
 </a>  
-  <i>Technical member at GeeksForGeeksCommunity(SRM-KTR)</i> 
+  <i>Technical Team member at GeeksForGeeksCommunity(SRM-KTR)</i> 
   <br>
   <br>
   <a href="https://www.instagram.com/nexttechlab/?hl=en">
- <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Member at SRM NextTechLabs(KTR)</i>
+ <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Member at NextTechLabs-Pausch(KTR)</i>
  
    <br>
    <br>
   <a href="https://www.instagram.com/gamedevcom.srm/">
  <img src="assets//clubs//gdc-icon.png" width="25px" height="20px" align="center"/></a> <i>Technical Member at Game Development Community SRM</i>
- 
+ <br>
+ <br>
+ <a href="https://www.instagram.com/srmkzilla/?hl=en" target="blank">
+  <img src="assets/clubs/kzilla.png" width="25px" height="20px" align="center">
+</a>  
+  <i>Technical Team Member at SRM-Kzilla</i> 
+  <br>
+  
  
   
   <br>
@@ -117,6 +124,17 @@
       height="40"
     />
   </a>
+  
+   <a href="https://dart.dev" target="_blank">
+    <img
+      src="assets/tools/dart.png"
+      alt="Dart"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  
   <h5 align="left">Markup/Stylesheet Languages</h5>
   
    <a href="https://www.markdownguide.org" target="_blank">
@@ -146,6 +164,46 @@
       height="40"
     />
   </a>
+  
+   <h5 align="left">Frameworks</h5>
+   
+  <a href="https://www.javatpoint.com/java-awt" target="_blank">
+    <img
+      src="assets/tools/awt.png"
+      alt="AWT"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank">
+    <img
+      src="assets/tools/swing.png"
+      alt="Swing"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+   <a href="https://openjfx.io" target="_blank">
+    <img
+      src="assets/tools/fx.png"
+      alt="JAVAfx"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  
+   <a href="https://flutter.dev/?gclid=Cj0KCQjwhY-aBhCUARIsALNIC05CUWaqKiGqrUTvhN9aKxrsrPpLNiYzmjDObj4CbGlCrL0cXQVGugwaAgs7EALw_wcB&gclsrc=aw.ds" target="_blank">
+    <img
+      src="assets/tools/flutter.png"
+      alt="Flutter"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <h5 align="left">Tools</h5>
    
   <a href="https://github.com" target="_blank">
