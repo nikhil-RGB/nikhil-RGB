@@ -20,7 +20,7 @@
   <br>
   <br>
   <a href="https://www.instagram.com/nexttechlab/?hl=en">
- <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Associate at NextTechLabs-Pausch(KTR)</i>
+ <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Member at NextTechLabs-Pausch(KTR)</i>
  
    <br>
    <br>
@@ -38,6 +38,12 @@
   <img src="assets/clubs/kzilla.png" width="25px" height="20px" align="center">
 </a>  
   <i>Technical Team Member at SRM-Kzilla</i> 
+  <br>
+    <br>
+ <a href="https://www.instagram.com/dscommunity_srm/?hl=en" target="blank">
+  <img src="assets/clubs/DS-community.png" width="25px" height="20px" align="center">
+</a>  
+  <i>Technical Team Member at Data-Science Community SRM</i> 
   <br>
   
  
