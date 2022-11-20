@@ -6,7 +6,8 @@
 - How to reach me: My email- javakingxi@gmail.com✉️<br>
 - Sometimes, I write stories and poems, check out all of my non-technical work from my [linktree](https://linktr.ee/nikhil_n67)<br>
 - You can check out brief descriptions of all my work [here](https://nikhil-rgb.github.io)<br/>
-- <strong>PS: All icons in this README are links which describe the icon, if you want to know anything about what technology/association<br/> an icon represents, click   on it for more information!</strong>
+- <strong>PS: All icons in this README are links which describe the icon, if you want to know anything about what technology/association<br/> an icon represents, click   on it for more information!</strong><br>
+- Constantly ~~copying~~ cloning [Chandrama's](https://github.com/chandramasaha) UI designs<a><img src="https://user-images.githubusercontent.com/68727041/202894129-b6322186-f07c-4d94-91a6-d6ca96f8a3e0.png" width="25px" height="20px" align="center"/></a>
 
 
 <hr/>
