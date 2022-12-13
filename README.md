@@ -20,15 +20,8 @@
   <i>Technical Team member at GeeksForGeeksCommunity(SRM-KTR)</i> 
   <br>
   <br>
-  <a href="https://www.instagram.com/nexttechlab/?hl=en">
- <img src="https://user-images.githubusercontent.com/68727041/173084120-d2c33fd4-3fd7-4c2e-b172-4ba2e34ee01e.png" width="25px" height="20px" align="center"/></a> <i>Member at NextTechLabs-Pausch(KTR)</i>
- 
-   <br>
-   <br>
-  <a href="https://www.instagram.com/gamedevcom.srm/">
- <img src="assets//clubs//gdc-icon.png" width="25px" height="20px" align="center"/></a> <i>Technical Member at Game Development Community SRM</i>
- <br>
- <br>
+
+
  <a href="https://www.instagram.com/alexadevsrm/?hl=en" target="blank">
   <img src="assets/clubs/alexa_devs.png" width="25px" height="20px" align="center">
 </a>  
