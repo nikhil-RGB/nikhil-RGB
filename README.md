@@ -48,7 +48,10 @@
 
 </h1>
 <p align="center">
-  <img src="https://images8.alphacoders.com/100/1003875.jpg" alt="Sekiro background">
+ 
+ <image src="https://user-images.githubusercontent.com/68727041/227721479-f8399b99-e01c-4b12-8f34-ccd20e722237.png">
+
+
  </p>
 <br>
 
