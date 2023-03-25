@@ -52,7 +52,7 @@
  </p>
 <br>
 
- ![Nikhil Narayanan's github activity graph](https://activity-graph.herokuapp.com/graph?username=nikhil-RGB&theme=react-dark)
+ [![Nikhil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nikhil-RGB&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="left">Connect with me:</h3>
