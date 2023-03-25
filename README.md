@@ -14,19 +14,7 @@
 
 
 ### Communities/Clubs/Organizations: 
- <a href="https://www.instagram.com/gfg_srmist/?hl=en" target="blank">
-  <img src="https://user-images.githubusercontent.com/68727041/173083148-ddda97ef-7bec-4020-9a1e-e0ccb8d50c7b.png" width="25px" height="20px" align="center">
-</a>  
-  <i>Technical Team member at GeeksForGeeksCommunity(SRM-KTR)</i> 
-  <br>
-  <br>
 
-<a href="https://githubsrm.tech" target="blank">
-  <img src="https://githubsrm.tech/og.jpg" width="30px" height="30px" align="center">
-</a>  
-  <i>Technical Team member at Github SRM Community(SRM-KTR)</i> 
-  <br>
-  <br>
 
  <a href="https://www.instagram.com/alexadevsrm/?hl=en" target="blank">
   <img src="assets/clubs/alexa_devs.png" width="25px" height="20px" align="center">
