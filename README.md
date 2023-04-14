@@ -16,12 +16,7 @@
 ### Communities/Clubs/Organizations: 
 
 
- <a href="https://www.instagram.com/alexadevsrm/?hl=en" target="blank">
-  <img src="assets/clubs/alexa_devs.png" width="25px" height="20px" align="center">
-</a>  
-  <i>Technical Team Member at Alexa SRM developers</i> 
-  <br>
-  <br>
+
  <a href="https://www.instagram.com/srmkzilla/?hl=en" target="blank">
   <img src="assets/clubs/kzilla.png" width="25px" height="20px" align="center">
 </a>  
