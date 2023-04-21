@@ -12,10 +12,14 @@
 
 <hr/>
 
-
 ### Communities/Clubs/Organizations: 
 
-
+<a href="https://gdscsrm.com" target="blank" alt="GDSC_preview">
+  <img src="assets/clubs/GDSC-prev.png" width="25px" height="20px" align="center">
+</a>  
+  <i>Technical Team Member at GDSC-SRM</i> 
+  <br>
+  <br>
 
  <a href="https://www.instagram.com/srmkzilla/?hl=en" target="blank">
   <img src="assets/clubs/kzilla.png" width="25px" height="20px" align="center">
