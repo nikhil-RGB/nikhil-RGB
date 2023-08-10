@@ -19,20 +19,7 @@
 </a>  
   <i>Technical Team Member at GDSC-SRM</i> 
   <br>
-  <br>
 
- <a href="https://www.instagram.com/srmkzilla/?hl=en" target="blank">
-  <img src="assets/clubs/kzilla.png" width="25px" height="20px" align="center">
-</a>  
-  <i>Technical Team Member at SRM-Kzilla</i> 
-  <br>
-    <br>
- <a href="https://www.instagram.com/dscommunity_srm/?hl=en" target="blank">
-  <img src="assets/clubs/DS-community.png" width="25px" height="20px" align="center">
-</a>  
-  <i>Technical Team Member at Data-Science Community SRM</i> 
-  <br>
-  
  
   
   <br>
