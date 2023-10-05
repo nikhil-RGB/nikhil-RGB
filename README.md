@@ -28,7 +28,7 @@
 
 <h1 align="center">Hi! I'm Nikhil Narayanan!
   
-<img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Nikhil Narayanan" width="30px" height="30px">
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Passionate+Beginner+Flutter+Dev;I+mod+Sekiro+sometimes;Always+willing+to+learn+something+new)](https://git.io/typing-svg)
 
@@ -41,7 +41,7 @@
  </p>
 <br>
 
- [![Nikhil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nikhil-RGB&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <h3 align="left">Connect with me:</h3>
