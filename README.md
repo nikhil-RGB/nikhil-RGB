@@ -237,11 +237,28 @@
       alt="VS-Code"
       width="40"
       height="40"
+     align="center"
     />
     </a>
     
     
    
+<br>
+<br>
+
+  <h3 align="left">Support me:</h3>
+
+
+  
+  <a href="https://buymeacoffee.com/nikhiln.exe" target="_blank">
+   <img
+      src="assets/COFFEE.png"
+      alt="Buy me a Coffee!"
+      width="190"
+      height="50"
+    />
+    </a>
+
 <br>
 
 <h2 align="center">Nikhil's Overview</h2>
