@@ -10,21 +10,8 @@
 - Constantly ~~copying~~ cloning [Chandrama's](https://github.com/chandramasaha) UI designs<a><img src="https://user-images.githubusercontent.com/68727041/202894129-b6322186-f07c-4d94-91a6-d6ca96f8a3e0.png" width="25px" height="20px" align="center"/></a>
 
 
-<hr/>
 
-### Communities/Clubs/Organizations: 
-
-<a href="https://gdscsrm.com" target="blank" alt="GDSC_preview">
-  <img src="assets/clubs/GDSC-prev.png" width="25px" height="20px" align="center">
-</a>  
-  <i>Technical Team Member at GDSC-SRM</i> 
-  <br>
-
- 
-  
-  <br>
-  <hr>
-  <br>
+<br>
 
 <h1 align="center">Hi! I'm Nikhil Narayanan!
   
@@ -263,14 +250,12 @@
 
 <h2 align="center">Nikhil's Overview</h2>
 
-|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
-|-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-RGB&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/nikhil-RGB)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=nikhil-RGB&theme=midnight-purple&hide_border=true)](https://github.com/nikhil-RGB)
+|💻Most Used Languages and Stats 📈|
+|-----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-RGB&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/nikhil-RGB)|
 |[![Statistics](https://github-readme-stats.vercel.app/api?username=nikhil-RGB&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/nikhil-RGB)|
 <br>
-<h1 >Total Profile Visits:</h1> 
 
-![Visitor Count](https://profile-counter.glitch.me/nikhil-RGB/count.svg)
 
 
 
